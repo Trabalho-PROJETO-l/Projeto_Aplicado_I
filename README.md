@@ -1,9 +1,21 @@
-# Responsaveis
-Mackenzie
-Projeto Aplicado 1
-NOME DO GRUPO – Grupo 19
-10782175 – ALLAN RAFAEL BASILIO - 10782175@MACKENZISTA.COM.BR
-10219078 – WILLIAN OSHIRO CORREA - 10219078@MACKENZISTA.COM.BR
-10780580 – WASHINGTON VENANCIO JUNIOR - 10780580@MACKENZISTA.COM.BR
-10420649 – PEDRO MANTOVANNI JUNIOR - 10420649@MACKENZISTA.COM.BR
+# Responsáveis
+
+## Universidade Presbiteriana Mackenzie
+
+**Projeto:** Projeto Aplicado I  
+**Grupo:** Grupo 19
+
+### Integrantes
+
+- **10782175 – Allan Rafael Basilio**
+  - E-mail: 10782175@MACKENZISTA.COM.BR
+
+- **10219078 – Willian Oshiro Correa**
+  - E-mail: 10219078@MACKENZISTA.COM.BR
+
+- **10780580 – Washington Venancio Junior**
+  - E-mail: 10780580@MACKENZISTA.COM.BR
+
+- **10420649 – Pedro Mantovanni Junior**
+  - E-mail: 10420649@MACKENZISTA.COM.BR
 
