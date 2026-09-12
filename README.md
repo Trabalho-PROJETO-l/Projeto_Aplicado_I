@@ -10,7 +10,7 @@
 - **10782175 – Allan Rafael Basilio**
   - E-mail: 10782175@MACKENZISTA.COM.BR
 
-- **10219078 – Willian Oshiro Correa**
+- **10219078 – William Oshiro Correa**
   - E-mail: 10219078@MACKENZISTA.COM.BR
 
 - **10780580 – Washington Venancio Junior**
