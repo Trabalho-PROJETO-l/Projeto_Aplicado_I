@@ -1,4 +1,4 @@
-# Responsáveis
+# Faturamento e Emissões de GEE na OceanPact
 
 ## Universidade Presbiteriana Mackenzie
 
